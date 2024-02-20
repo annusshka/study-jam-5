@@ -12,6 +12,7 @@
 
 
 Приложение при запуске
+
 ![1](https://github.com/annusshka/study-jam-5/assets/98618033/9160a209-be02-4809-b4b3-346a8e8a0c73)
 
 
