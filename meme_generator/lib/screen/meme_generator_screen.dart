@@ -130,7 +130,7 @@ class _MemeGeneratorScreenState extends State<MemeGeneratorScreen> {
                     padding: const EdgeInsets.all(10)
                 ),
                 child: const Icon(
-                  Icons.add,
+                  Icons.open_in_browser,
                   size: 30,
                 ),
                 onPressed: () {
